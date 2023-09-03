@@ -55,7 +55,7 @@ li a, .dropbtn {
 }
 
 li a:hover, .dropdown:hover .dropbtn {
-  color: #f0e68c;
+  color: #73be6c;
   
 }
 /*     
@@ -120,7 +120,7 @@ li.dropdown {
 }
 
 .dropdown-content a:hover {
-  background-color: rgb(255, 255, 221);
+  background-color: #73be6c;
   color: black;
   border-radius: 30px;
 }
